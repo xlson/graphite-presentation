@@ -1,0 +1,94 @@
+                                                                     
+                                                                     
+                                                                     
+                                             
+This talk is about:
+    - Feedback (!)
+    - A (fantastic) monitoring tool
+    - A (successful) experiment
+    - The (wonderful) benefits of real time monitoring and visualization
+
+The tool:
+    - Graphite
+        - Python
+        - Open Source
+        - Highly scalable
+        - Graphite does two things:
+            - Store numeric time-series data
+            - Render graphs of this data on demand
+        - Graphite does not do:
+            - data collection
+            - alerts or alarms (irrelevant for this talk)
+    - Examples:
+        - Setting up graphite
+            - Complex dependencies
+            - ...but basically a python (web) app
+        - Hello world collection script
+            - "So few lines of code"
+            - "Shows up at once"
+        - Historic data
+        - Composition
+            - Easy to add metrics to a graph
+            - Result is easy to share
+    - Success criteria
+        - Visually pleasing
+        - Availability (anyone with a browser)
+        - Continuity, see it develop over time
+        - Instantaneous
+        - Ease of use
+            - Getting data in
+            - Experimenting with the data
+
+Our story:
+    - Fresh team, new technologies
+    - We were unsure about performance
+    - So were our stakeholders
+    - Debugging and profiling didn't cut it
+        - Hard to do over time
+        - Only a narrow sliver of information
+    - We were blessed with:
+        - A mature load testing environment
+        - Metrics
+            - Coded into product (separate project)
+            - Already in place in some tools (queues)
+        - Virtual, dedicated machines available to us
+    
+
+The benefits:
+    - What we observed
+        - Information hunger
+            - Eagerness to redeploy
+            - Experimentation
+                - With implementation
+                - With loading/staging
+        - Increased confidence
+            - Within the team
+            - Outside the team (if it's graphed it's a fact)
+            - With historic data as a reference
+        - Influence on design
+            - Design for metrics/testing and composability
+            - Avoiding YAGNI when metrics showed no improvement needed
+            - Targeted improvement of problem areas (e.g. transactionality)
+    - Theoretical breakdown:
+        - The water cooler effect/Your new village water pump
+            - Graphs attract audience
+            - Natural talking matter
+            - Focus on empirical data and development
+        - The team:
+            - Data for decision making
+            - Familiarity with performance metrics
+                - Recognize bad trends and isolate their causes
+                - Don't panic
+            - Testing tool
+                - When "composing" is easy
+                - Find regressions while comparing historic data
+        - Stakeholders
+            - Interested in trends and follow up on them
+            - Understand the "technical" domain and what influences performance
+            - Associating data with names in the domain or architecture
+        - Managers
+            - Information as leverage
+                - For change in development procedure
+                - For investment in infrastructure/HW
+
+

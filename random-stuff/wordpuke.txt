@@ -1,0 +1,49 @@
+We saw, we visualized, we changed
+
+Chapter: Intro
+Ville
+    - Work at Agical
+    - Programmer, architect, tester
+    - Java made my career, Clojure rekindled it
+    - Loves automation, monitoring, fast feedback
+
+A presentation in three chapters
+    - A story
+    - A tool
+    - A theory
+
+First and foremost about
+    - *Feedback* and information
+        - Visual, appealing, understandable
+        - Continuous
+        - Just in time, instantly available
+        - Readily accessible, never locked away
+        - Easily extended, updated
+
+Chapter: A Story
+
+The original problem
+    Entraction
+    We wanted to settle concerns about stability and performance for a new
+    application about to be integrated in existing environment
+
+Path was already cleared (somewhat)
+    A "monitoring" project underway adding a uniform way to present metrics.
+
+<<<<<<<<<<<Vad gav Leo idén?>>>>>>>>>>>
+<<<<<<<<<<<Vad gav Leo idén?>>>>>>>>>>>
+
+A new hope
+    We realized that instead of 
+        [HTML pages, logs, calculations, debuggers]
+    we could have
+        [nice, clear graph]
+
+===============================================================================
+Saker jag vill få med:
+- Why did previous (or parallel) monitoring efforts fail?
+    - "No time"
+    - Driven by ops (or their managers) for needs outside developer interest
+    - Firewalls, authorization, network topology
+    - "Inserted" as a production-only need, not visible to development
+

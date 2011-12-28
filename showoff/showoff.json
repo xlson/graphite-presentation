@@ -1,0 +1,9 @@
+{ 
+    "name": "We came, we visualized, we changed", 
+    "sections": [ 
+        {"section":"intro"},
+        {"section":"our_story"},
+        {"section":"graphite"},
+        {"section":"observations_theories_benefits"}
+        ]
+}

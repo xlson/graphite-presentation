@@ -44,17 +44,19 @@
 
 !SLIDE bullets
 # Instead of #
+!SLIDE center
 [ images: HTML pages, logs, calculations, debuggers ]
 
 !SLIDE bullets
 # ...we could have #
-[ image: a nice clear graph ]
+!SLIDE center
+![nice](graphite-browser-image.png)
 
 !SLIDE
 # Lone heroes are a myth #
 
 * "Metrics project" already underway
 * Mature load testing environment
-* A curious team
+* A team curious about data
 
 .notes Monitoring proj req. by PO/Ops, Access to load testing for a long time

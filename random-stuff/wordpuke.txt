@@ -1,16 +1,20 @@
 We saw, we visualized, we changed
 
 Chapter: Intro
+===============
 Ville
-    - Work at Agical
-    - Programmer, architect, tester
+    - Employee at Agical
+    - Programmer, architect, tester, ...
     - Java made my career, Clojure rekindled it
     - Loves automation, monitoring, fast feedback
+Leo
+    - Employee at Mojang
+    - ...
 
 A presentation in three chapters
     - A story
     - A tool
-    - A theory
+    - Lessons, observations and theories
 
 First and foremost about
     - *Feedback* and information
@@ -21,29 +25,74 @@ First and foremost about
         - Easily extended, updated
 
 Chapter: A Story
-
+===============
 The original problem
     Entraction
     We wanted to settle concerns about stability and performance for a new
-    application about to be integrated in existing environment
+    application about to be integrated in a legacy environment
 
-Path was already cleared (somewhat)
-    A "monitoring" project underway adding a uniform way to present metrics.
+Blunt tools
+    MBeans + JConsole
+        => No "mining", unreliable
+    "Cron" + csv + excel
+        => Much manual labor, long turnarounds/slow feedback
 
-<<<<<<<<<<<Vad gav Leo idén?>>>>>>>>>>>
-<<<<<<<<<<<Vad gav Leo idén?>>>>>>>>>>>
+Graphite to the rescue
+    (Agila Sverige, Mårten)
+    Half a day of setting up and getting going
+    (Collection of) Three fairly simple but relevant metrics
+    Presto! Data is available in all shapes and sizes
+        => everyone on the team was impressed enough to insist on pursuing 
+        the tool further
 
 A new hope
     We realized that instead of 
-        [HTML pages, logs, calculations, debuggers]
+        [ images: HTML pages, logs, calculations, debuggers ]
     we could have
-        [nice, clear graph]
+        [ image: nice, clear graph ]
+
+We had help
+    A "monitoring" project underway adding a uniform way to provide metrics.
+    We had access to a very mature environment for load testing (for a long time)
+
+Chapter: A Tool
+===============
+- Setting up Graphite is a _one time cost_
+    - What matters is
+        ...getting data in
+        ...accessing the data
+        ...making sense of the data
+
+- [ demo ]
+    - "Hello world" metrics collection 
+    - Instantly available
+- [ demo ]
+    - Composing a graph
+    - Applying functions
+        - nonNegativeDerivative for detecting trends
+- [ demo ]
+    - ?
+
+Chapter: Lessons
+================
+- Introducing Graphite into your org
+    - Easier when done from the development side
+        - It will already be "proven" and production env. problems will be 
+          easier to overcome thanks to motivation.
+    - Why did previous (or parallel) monitoring efforts fail?
+        - "No time"
+        - "Not made available"
+            - Firewalls, authorization, network topology
+            - "Inserted" as a production-only need, not visible to development
+        - "Silos"
+            - Driven by ops (or their managers) without involvement of development 
+- Collaboration
+    - Nurturuing conversations with data
+        ...between operations and development ("how is this performing, when need we worry?")
+        ...stakeholders
+            - is it quite _ready_ yet?
+            - oooh, what is that?
+            - this looks different than before...
 
 ===============================================================================
-Saker jag vill få med:
-- Why did previous (or parallel) monitoring efforts fail?
-    - "No time"
-    - Driven by ops (or their managers) for needs outside developer interest
-    - Firewalls, authorization, network topology
-    - "Inserted" as a production-only need, not visible to development
-
+Mera saker jag vill få med:

@@ -11,4 +11,6 @@
 
 !SLIDE center
 # Water cooler effect #
+a immediate side effect
+
 [ image: water-cooler-effect ]

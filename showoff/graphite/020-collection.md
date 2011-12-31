@@ -37,6 +37,8 @@
         (binding [*out* (PrintWriter. os)]
           (println name value timestamp))))
 
+    (write-metric "first.try.value.1" 123 (now))
+
 !SLIDE
 [ demo: collection-hello-world ]
 

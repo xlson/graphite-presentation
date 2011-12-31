@@ -11,6 +11,11 @@
 
 .notes within the team, outside (graph as fact), history as reference
 
+!SLIDE
+# Familiarity with performance #
+
+.notes easily spot trends/errors, don't panic
+
 !SLIDE bullets
 # Influence on design #
 

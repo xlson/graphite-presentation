@@ -65,6 +65,12 @@ The benefits:
             - Within the team
             - Outside the team (if it's graphed it's a fact)
             - With historic data as a reference
+            - Familiarity with performance metrics
+                - Recognize bad trends and isolate their causes
+                - Don't panic
+        - Testing tool
+            - When "composing" is easy
+            - Find regressions while comparing historic data
         - Influence on design
             - Design for metrics/testing and composability
             - Avoiding YAGNI when metrics showed no improvement needed
@@ -76,12 +82,6 @@ The benefits:
             - Focus on empirical data and development
         - The team:
             - Data for decision making
-            - Familiarity with performance metrics
-                - Recognize bad trends and isolate their causes
-                - Don't panic
-            - Testing tool
-                - When "composing" is easy
-                - Find regressions while comparing historic data
         - Stakeholders
             - Interested in trends and follow up on them
             - Understand the "technical" domain and what influences performance

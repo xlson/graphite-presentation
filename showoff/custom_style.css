@@ -1,9 +1,8 @@
 .content {
-    color: black;
-    font-family: helvetica, arial;
+    color: rgb(50,50,50);
 }
 h1, h2 {
-    color: rgb(79, 180, 226);
+    color: rgb(50, 120, 60);
     font-family: Georgia;
 }
 body.fullScreen {

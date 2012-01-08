@@ -3,8 +3,6 @@
 # We visualized #
 # We changed #
 
-![background](../render.png)
-
 !SLIDE bullets
 # Three chapters #
 * A story

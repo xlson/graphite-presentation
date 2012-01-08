@@ -1,0 +1,21 @@
+.content {
+    color: rgb(50,50,50);
+}
+h1, h2 {
+    color: rgb(50, 120, 60);
+    font-family: Georgia;
+}
+body.fullScreen {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#preso, .slide {
+  border: none !important;
+}
+

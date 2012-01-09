@@ -14,3 +14,11 @@
 * Silo-thinking
 
 .notes "not development", firewalls, auth, topology, prod./ops only
+
+!SLIDE bullets
+# Our reasons for success #
+
+* Availability
+* Ease of use
+
+.notes uncomplicated collection

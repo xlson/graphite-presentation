@@ -7,4 +7,4 @@
 !SLIDE
 [ demo: compose-a-graph ]
 
-.notes Apply a function, nonNegativeDerivative
+.notes Apply a function, nonNegativeDerivative, talk about composability, how different data can be combined easily

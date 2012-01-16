@@ -4,10 +4,24 @@ A talk about
 
 .notes At the core (of agility) 
 
-!SLIDE bullets
-# Feedback #
-* Visual, appealing, understandable
-* Continuous
-* Just in time, instantly available
-* Readily accessible, never locked away
-* Easily extended, updated
+!SLIDE
+a tight
+# feedback loop #
+means making informed decisions
+
+!SLIDE
+feedback needs to be
+# continous #
+
+!SLIDE
+comparable
+# over time #
+
+
+!SLIDE
+readily
+# available #
+
+!SLIDE
+it's good if it's
+# visually appealing #

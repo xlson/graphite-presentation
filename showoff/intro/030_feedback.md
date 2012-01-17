@@ -2,12 +2,5 @@
 A talk about
 # Feedback #
 
-.notes At the core (of agility) 
+.notes At the core (of agility), different kinds
 
-!SLIDE bullets
-# Feedback #
-* Visual, appealing, understandable
-* Continuous
-* Just in time, instantly available
-* Readily accessible, never locked away
-* Easily extended, updated

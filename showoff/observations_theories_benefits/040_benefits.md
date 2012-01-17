@@ -1,5 +1,7 @@
 !SLIDE
-# Theories #
+# Collaborative benefits #
+
+Nurturing conversation with data
 
 !SLIDE bullets
 # The water cooler effect #
@@ -18,10 +20,12 @@
 !SLIDE bullets
 # Stakeholders #
 
-* See trends and follow up on them
+* _Ooooh_ what is that?
 * Better understanding of the "technical" domain
-* ...and what influences performance
-* Associating names in the domain or architecture with actual data
+* Is it _quite_ ready yet?
+* This looks different than before...
+
+.notes what influences perf., associate names with data, watercooler once again
 
 !SLIDE bullets
 # Managers #

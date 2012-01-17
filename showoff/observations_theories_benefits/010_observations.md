@@ -19,10 +19,6 @@
 !SLIDE bullets
 # Influence on design #
 
-* Design for metrics 
-* YAGNI
-* Targeted improvements
-
 .notes at least one feature not impl., metrics show when/where improvement needed (or not) 
 
 !SLIDE bullets

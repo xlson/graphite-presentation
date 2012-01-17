@@ -1,6 +1,11 @@
 !SLIDE 
 # A monitoring story #
 
+!SLIDE
+# Entraction #
+
+.notes worked as developer and tester
+
 !SLIDE bullets 
 # The original problem #
 

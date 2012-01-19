@@ -23,5 +23,5 @@ readily
 # available #
 
 !SLIDE
-it's good if it's
-# visually appealing #
+# good looking #
+to spark curiosity

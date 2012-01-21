@@ -1,4 +1,4 @@
-!SLIDE
+!SLIDE bullets
 # Lone heroes are a myth #
 
 * Tools

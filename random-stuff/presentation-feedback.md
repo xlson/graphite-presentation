@@ -1,15 +1,10 @@
 # Feedback from run at Agical 2012-01-19
 
-* feedback bort
 * nämna vad graphite är tidigare
-* när vi går in i historien om övervakning, visa bild på big brother övervakning som ett skämt
-* we had a problem istället för the problem
-* bara trubbig bild, ingen text
 * ersätt bilden med bild på loggar och annat, kan läggas över
 * Mer om vad vi gjorde innan g, så man vet vad g löste för problem
 * presto -> bilder på graphite dashboard
 * stryk det som kommer efter som visar verktyg och graphite
-* fixa bullets för lone hero
 * hero-tools, flera ord på samma slide (kommer inte ihåg vad jag menade med detta, måste kolla)
 * w,c,d i spalter med bullets med info om varje grej. Allt behöver inte sägas
 * 2 saker gör att vi gillar graphite: lätt in, lätt ut (data)
@@ -25,3 +20,10 @@
 * mer fokus på behaviour som man lär sig, mindre på performance
 * intro monitoring har en konstig titel
 * stake holder och resten av folket kan vara pratbubblor som vi kan förklara innebörden av
+
+# Done
+* feedback bort
+* när vi går in i historien om övervakning, visa bild på big brother övervakning som ett skämt
+* we had a problem istället för the problem
+* bara trubbig bild, ingen text bullets
+* fixa bullets för lone hero

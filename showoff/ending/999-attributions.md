@@ -1,5 +1,6 @@
 !SLIDE
 # Attributions
+[Concerns](http://www.flickr.com/photos/sophistechate/2758739495)
 [Blunt tools](http://www.flickr.com/photos/stebulus/231058538/)
 [Thirst](http://www.flickr.com/photos/kh-67/4476573711)
 [Confidence](http://www.flickr.com/photos/ncindc/3229050640)

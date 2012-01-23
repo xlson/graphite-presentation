@@ -5,7 +5,9 @@
 
 !SLIDE bullets
 # ...we could have #
+
 !SLIDE center
+
 ![nice](graphite-browser-image.png)
 
 !SLIDE

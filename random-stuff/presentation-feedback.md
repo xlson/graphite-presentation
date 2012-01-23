@@ -3,8 +3,6 @@
 * nämna vad graphite är tidigare
 * ersätt bilden med bild på loggar och annat, kan läggas över
 * Mer om vad vi gjorde innan g, så man vet vad g löste för problem
-* presto -> bilder på graphite dashboard
-* stryk det som kommer efter som visar verktyg och graphite
 * hero-tools, flera ord på samma slide (kommer inte ihåg vad jag menade med detta, måste kolla)
 * w,c,d i spalter med bullets med info om varje grej. Allt behöver inte sägas
 * 2 saker gör att vi gillar graphite: lätt in, lätt ut (data)
@@ -27,3 +25,5 @@
 * we had a problem istället för the problem
 * bara trubbig bild, ingen text bullets
 * fixa bullets för lone hero
+* presto -> bilder på graphite dashboard
+* stryk det som kommer efter som visar verktyg och graphite

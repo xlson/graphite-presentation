@@ -1,4 +1,4 @@
-!SLIDE
+!SLIDE subsection
 # A tool #
 
 !SLIDE bullets

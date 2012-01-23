@@ -1,4 +1,4 @@
-!SLIDE center
+!SLIDE subsection
 # A story of monitoring
 
 ![watching you](big_brother.jpg)

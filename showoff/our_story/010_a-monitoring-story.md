@@ -1,15 +1,15 @@
 !SLIDE center
-# A monitoring story #
+# A story of monitoring
 
 ![watching you](big_brother.jpg)
 
 !SLIDE
-# Entraction #
+# Entraction
 
 .notes worked as developer and tester
 
 !SLIDE bullets 
-# We had a problem #
+# We had a problem
 
 * Settle concerns
 

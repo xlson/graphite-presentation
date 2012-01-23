@@ -23,19 +23,18 @@
 !SLIDE code smaller
 # "Hello metric" #
 (Clojure)
-    @@@ clojure
     (ns clj-client.core
       (import [java.net Socket]
               [java.io PrintWriter]))
-
-    (defn now []
-      (int (/ (System/currentTimeMillis) 1000)))
 
     (defn write-metric [name value timestamp]
       (with-open [socket (Socket. "localhost" 2003)
                   os (.getOutputStream socket)]
         (binding [*out* (PrintWriter. os)]
           (println name value timestamp))))
+
+    (defn now []
+      (int (/ (System/currentTimeMillis) 1000)))
 
     (write-metric "first.try.value.1" 123 (now))
 

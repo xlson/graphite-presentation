@@ -1,27 +1,39 @@
-!SLIDE
-# Observations #
+!SLIDE subsection
+# Observations
 
-!SLIDE
-# Information hunger #
+!SLIDE center
+# Thirst for knowledge
+![thirst](thirst.jpg)
 
 .notes need for metrics, notice missing info, eagerness to retest/deploy, experimentation
 
-!SLIDE
-# Increased confidence #
+!SLIDE center
+# Increased confidence
+![confidence](confidence.jpg)
 
 .notes outspoken within the team, outside (graph as fact), history as reference
 
-!SLIDE
-# Familiarity with performance #
+!SLIDE center
+# Familiarity with your app's behaviour
+![behaviour](behaviour.jpg)
 
 .notes easily spot trends/errors, don't panic, spotted prod. HW problems
 
-!SLIDE bullets
-# Influence on design #
+!SLIDE center
+# Influence on design
+![design](design.jpg)
 
 .notes at least one feature not impl., metrics show when/where improvement needed (or not) 
 
-!SLIDE bullets
-# A tool for testing #
+!SLIDE center
+# A tool for testing
+![testing](testing.jpg)
 
 .notes data as reference when "composing" is easy!, regressions using historic data
+
+!SLIDE center
+# Before your monitoring initiative
+![start monitoring](start_monitoring.jpg)
+
+.notes start in development, silos, 
+

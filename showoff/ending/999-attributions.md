@@ -1,5 +1,6 @@
-!SLIDE
+!SLIDE smaller
 # Attributions
+## Images
 [Concerns](http://www.flickr.com/photos/sophistechate/2758739495)
 [Blunt tools](http://www.flickr.com/photos/stebulus/231058538/)
 [Thirst](http://www.flickr.com/photos/kh-67/4476573711)
@@ -8,4 +9,5 @@
 [Design](http://www.flickr.com/photos/27620885@N02/2634223296)
 [Testing](http://www.flickr.com/photos/tk-link/2575598759)
 [Start monitoring](http://www.flickr.com/photos/tk-link/2575598759)
-
+## Other
+The team at Entraction (IGT)

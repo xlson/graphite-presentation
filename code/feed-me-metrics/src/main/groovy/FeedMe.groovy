@@ -26,7 +26,6 @@ class FeedMe {
     }
 
     def createMoving(int base = 100, int moving = 100) {
-        def rnd = new Random()
         return {->
             base + nextInt(moving)
         }

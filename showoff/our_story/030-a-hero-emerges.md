@@ -14,9 +14,9 @@
 
 !SLIDE center
 # Water cooler effect #
-a immediate side effect
+an immediate side effect
 
-[ image: water-cooler-effect ]
+![gather round](gather_round.jpg)
 
 !SLIDE
 # And so it went on #

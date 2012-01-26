@@ -4,13 +4,11 @@
 * nämna vad graphite är tidigare
 * ersätt bilden med bild på loggar och annat, kan läggas över
 * Mer om vad vi gjorde innan g, så man vet vad g löste för problem
-* hero-tools, flera ord på samma slide (kommer inte ihåg vad jag menade med detta, måste kolla)
-* 2 saker gör att vi gillar graphite: lätt in, lätt ut (data)
-* beskriv vad det är som är så bra med composern
-  - dema hur man jobbar med olika use cases för att förklara hur man kan använda graphite, hur man löser problem med g, inte vilka funktioner den har
 * stake holder och resten av folket kan vara pratbubblor som vi kan förklara innebörden av
 
 ## Praktiskt
+* beskriv vad det är som är så bra med composern
+  - dema hur man jobbar med olika use cases för att förklara hur man kan använda graphite, hur man löser problem med g, inte vilka funktioner den har
 * shortcut för mirror displays till 2 displays
 * hitta test klient för demo snabbt
 * vit bakgrund i graferna så att de syns ordentligt
@@ -30,3 +28,5 @@
 * mer fokus på behaviour som man lär sig, mindre på performance
 * intro monitoring har en konstig titel
 * w,c,d i spalter med bullets med info om varje grej. Allt behöver inte sägas
+* 2 saker gör att vi gillar graphite: lätt in, lätt ut (data)
+* hero-tools, flera ord på samma slide (kommer inte ihåg vad jag menade med detta, måste kolla)

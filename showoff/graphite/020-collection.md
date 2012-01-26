@@ -38,6 +38,9 @@
 
     (write-metric "first.try.value.1" 123 (now))
 
-!SLIDE
-[ demo: collection-hello-world ]
+!SLIDE center
+
+![demo time](juggling_fire.jpg)
+
+[ demo time ]
 

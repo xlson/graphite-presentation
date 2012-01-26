@@ -3,4 +3,4 @@
 # Three chapters #
 * A story
 * A tool
-* Observations and theories
+* Observations and benefits

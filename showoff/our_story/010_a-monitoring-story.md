@@ -1,9 +1,16 @@
-!SLIDE subsection center
+!SLIDE subsection
 # A story of monitoring
 
+!SLIDE center
 ![watching you](big_brother.jpg)
 
+!SLIDE center
+# ...but seriously
+
+![noc](noc.jpg)
+
 !SLIDE
+Once upon a time at
 # Entraction
 
 .notes worked as developer and tester

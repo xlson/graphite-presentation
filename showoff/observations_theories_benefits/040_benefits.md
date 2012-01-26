@@ -8,7 +8,6 @@ Nurturing conversation with data
 
 * Graphs attract audience
 * Natural talking matter
-* Focus on empirical data and development
 
 !SLIDE bullets
 # The team #

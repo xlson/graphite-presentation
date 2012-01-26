@@ -32,7 +32,7 @@
 .notes data as reference when "composing" is easy!, regressions using historic data
 
 !SLIDE center
-# Starting a monitoring initiative
+# Starting early
 ![start monitoring](start_monitoring.jpg)
 
 .notes start in development, silos, ready for prod.

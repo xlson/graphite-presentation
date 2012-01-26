@@ -1,18 +1,39 @@
 class FeedMe {
+
+    private Socket socket
+    private OutputStream out
+    
     public static void main(args) {
-        new FeedMe().run(60, true)
+        new FeedMe('127.0.0.1', 2003).run(60, true)
+    }
+    
+    def FeedMe(String address, int port) {
+        socket = new Socket(address, port)
+        out = socket.outputStream
     }
     
     def initializeMetricCreators() {
-        ['monster.queue': createAllTimeQueue()]
+        ['monster.queue': createAllTimeQueue(),
+         'logins.successful': createMoving(100, 100),
+         'logins.failed': createMoving(10, 50)]
     }
 
     def createAllTimeQueue(long startValue = 900000, int increment = 20) {
-        def rnd = new Random()
         long total = startValue
         return {->
-            total += rnd.nextInt(increment)
+            total += nextInt(increment)
         }
+    }
+
+    def createMoving(int base = 100, int moving = 100) {
+        def rnd = new Random()
+        return {->
+            base + nextInt(moving)
+        }
+    }
+
+    private nextInt(value) {
+        new Random().nextInt(value)
     }
 
     def run(int minutesBack, boolean keepGoing) {
@@ -22,10 +43,12 @@ class FeedMe {
         }
         if(keepGoing) {
             while(42) {
-                sleep(60 * 1000)
+                sleep(60000 * 1000)
                 sendMetrics(metrics, 0)
             }
         }
+
+        socket.close()
     }
 
     private sendMetrics(LinkedHashMap<String, Closure<Number>> metrics, int i) {
@@ -35,9 +58,7 @@ class FeedMe {
     }
 
     def sendMetric(String metric, def value, def time) {
-        new Socket('127.0.0.1', 2003).getOutputStream().withWriter {
-            it << "$metric $value $time\n"
-        }
+        out << "$metric $value $time\n"
     }
 
     def now(int timeBack = 0) {

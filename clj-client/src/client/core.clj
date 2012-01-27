@@ -1,6 +1,7 @@
 (ns client.core
   (:import java.util.Date)
-  (:require [monotony.core :as m]))
+  (:require [monotony.configured :as mc]))
 
 (defn now []
-  (Date.))
+  (/ (System/currentTimeMillis) 1000))
+

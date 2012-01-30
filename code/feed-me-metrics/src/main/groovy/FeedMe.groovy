@@ -17,9 +17,11 @@ class FeedMe {
     }
     
     def initializeMetricCreators() {
-        ['monster.queue': createAllTimeQueue(),
-         'logins.successful': createMoving(100, 100),
-         'logins.failed': createMoving(10, 50)]
+        ['monster.darth.queue': createAllTimeQueue(),
+         'logins.leia.successful': createMoving(100, 100),
+         'logins.luke.successful': createMoving(100, 100),
+         'logins.jabba.failed': createMoving(10, 50),
+         'logins.obiwan.failed': createMoving(10, 50)]
     }
 
     def createAllTimeQueue(long startValue = 900000, int increment = 20) {

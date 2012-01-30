@@ -4,7 +4,11 @@ class FeedMe {
     private OutputStream out
     
     public static void main(args) {
-        new FeedMe('127.0.0.1', 2003).run(60, true)
+      def serverIp = '127.0.0.1'
+      if(args.size() == 1) { 
+        serverIp = args[0]
+      }
+        new FeedMe(serverIp, 2003).run(60, true)
     }
     
     def FeedMe(String address, int port) {
@@ -37,7 +41,7 @@ class FeedMe {
 
     def run(int minutesBack, boolean keepGoing) {
         def metrics = initializeMetricCreators()
-        for(i in 0..(-1 * minutesBack)) {
+        for(i in minutesBack..0) {
             sendMetrics(metrics, i)
         }
         if(keepGoing) {
@@ -60,7 +64,7 @@ class FeedMe {
         out << "$metric $value $time\n"
     }
 
-    def now(int timeBack = 0) {
-        System.currentTimeMillis() - (timeBack * 1000 * 60)
+    long now(int timeBack = 0) {
+      (System.currentTimeMillis() - (timeBack * 1000 * 60)) / 1000
     }
 }

@@ -46,7 +46,7 @@ class FeedMe {
         }
         if(keepGoing) {
             while(42) {
-                sleep(60000 * 1000)
+                sleep(60 * 1000)
                 sendMetrics(metrics, 0)
             }
         }

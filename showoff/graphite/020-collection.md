@@ -18,7 +18,7 @@
     def now():
         int(time.time())
 
-    collect_metric("metric.name", 42, now())
+    collect_metric("meaning.of.life", 42, now())
 
 !SLIDE code smaller
 # "Hello metric" #

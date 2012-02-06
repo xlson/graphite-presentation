@@ -2,18 +2,17 @@
 # A story of monitoring
 
 !SLIDE center
+# Watching you
 ![watching you](big_brother.jpg)
 
 !SLIDE center
-# ...but seriously
-
+# ...or your product
 ![noc](noc.jpg)
 
-!SLIDE
-Once upon a time at
-# Entraction
+!SLIDE center
+![entraction](entraction_logga.png)
 
-.notes worked as developer and tester
+.notes consultants, working as developer and tester
 
 !SLIDE center 
 # We had a problem

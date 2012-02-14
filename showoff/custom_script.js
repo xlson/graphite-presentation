@@ -15,8 +15,10 @@ $(function() {
       var src = slide_bg_img.attr('src');
       slide_bg_img.hide();
       set_background(src);
+      $("#preso").css("display", "none")
     } else {
       set_background(DEFAULT_BACKGROUND);
+      $("#preso").css("display", "block")
     }
   });
 });

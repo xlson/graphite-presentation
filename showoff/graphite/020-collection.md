@@ -23,6 +23,7 @@
 !SLIDE code smaller
 # "Hello metric" #
 (Clojure)
+    @@@ Clojure
     (ns clj-client.core
       (import [java.net Socket]
               [java.io PrintWriter]))

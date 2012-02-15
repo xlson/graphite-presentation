@@ -1,8 +1,3 @@
-!SLIDE bullets
-# "getting the data in" #
-
-.notes Graphite does not do it for you, but it is really easy
-
 !SLIDE code smaller
 # "Hello metric" #
 (Python)

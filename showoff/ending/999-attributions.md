@@ -20,4 +20,4 @@ The team at Entraction (IGT)
 
 Mårten Gustafson
 
-
+Ville Svärd (Agical)

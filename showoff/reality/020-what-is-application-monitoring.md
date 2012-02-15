@@ -15,3 +15,12 @@
 
 !SLIDE
 # a common language
+
+!SLIDE
+but
+# I'm a developer
+
+!SLIDE bullets
+# Requirements in development
+* do load testing
+* (preferrably) involvement in production

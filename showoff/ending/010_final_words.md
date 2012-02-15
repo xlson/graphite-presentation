@@ -1,5 +1,3 @@
-!SLIDE bullets
-# Feedback #
-
 !SLIDE
-# Start influencing your development today #
+# Get to know your application
+# today

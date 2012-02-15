@@ -12,6 +12,7 @@ Nurturing conversation with data
 !SLIDE bullets
 # The team #
 
+* Curing blindness
 * Making better decisions
 
 .notes (with data as guide)
@@ -20,7 +21,8 @@ Nurturing conversation with data
 # Stakeholders #
 
 * _Ooooh_ what is that?
-* Better understanding of the "technical" domain
+* Shared understanding of the "technical" domain
+* Shared _language_
 * Is it _quite_ ready yet?
 * This looks different than before...
 

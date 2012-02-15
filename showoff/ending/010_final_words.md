@@ -1,5 +1,8 @@
 !SLIDE bullets
-# Feedback #
+# Feedback
+# Behaviour
+# Language
+# Perception
 
 !SLIDE
 # Start influencing your development today #

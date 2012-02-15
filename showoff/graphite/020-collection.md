@@ -24,9 +24,8 @@
 # "Hello metric" #
 (Clojure)
     @@@ Clojure
-    (ns clj-client.core
-      (import [java.net Socket]
-              [java.io PrintWriter]))
+    (import [java.net Socket]
+            [java.io PrintWriter]))
 
     (defn write-metric [name value timestamp]
       (with-open [socket (Socket. "localhost" 2003)
@@ -37,7 +36,7 @@
     (defn now []
       (int (/ (System/currentTimeMillis) 1000)))
 
-    (write-metric "first.try.value.1" 123 (now))
+    (write-metric "meaning.of.life" 42 (now))
 
 !SLIDE center
 

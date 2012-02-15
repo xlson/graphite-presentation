@@ -1,8 +1,10 @@
+
+
 .content {
-    color: rgb(50,50,50);
+    color: #0D6FFC;
 }
 h1, h2 {
-    color: rgb(50, 120, 60);
+    color: #17A2E5;
     font-family: Georgia;
 }
 body.fullScreen {
@@ -16,10 +18,21 @@ body.fullScreen {
 }
 
 .subsection h1{
-    background: rgb(50, 120, 60);    
+    background: #0D6FFC;
+    color: black;
 }
 
 #preso, .slide {
   border: none !important;
+  background-color: black;
+
+}
+
+#preso a:visited {
+    color: #0D6FFC;
+}
+
+#preso a:link {
+    color: #0D6FFC;
 }
 

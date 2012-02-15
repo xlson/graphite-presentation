@@ -8,16 +8,19 @@
 
 !SLIDE bullets
 # Ville Svärd
-* Consultant with Agical
+## Consultant with Agical
+
+_Curiosity, feedback, appreciation_
 
 !SLIDE bullets
 A talk about
-# Feedback #
+# Feedback
+## ?
 
 .notes At the core (of agility), different kinds
 
 !SLIDE bullets
-# Three chapters #
+# Three chapters
 * A story
 * A tool
 * Observations and benefits

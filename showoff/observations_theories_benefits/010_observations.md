@@ -8,7 +8,7 @@
 .notes need for metrics, notice missing info, eagerness to retest/deploy, experimentation
 
 !SLIDE center
-# Familiarity with your app's behaviour
+# Familiarity with (odd) behaviour
 ![behaviour](behaviour.jpg)
 
 .notes easily spot trends/errors, don't panic, spotted prod. HW problems

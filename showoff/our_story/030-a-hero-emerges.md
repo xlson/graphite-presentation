@@ -19,6 +19,11 @@ an immediate side effect
 ![gather round](gather_round.jpg)
 
 !SLIDE
-# And so it went on #
+# Out of the darkness
+
+.notes shared understanding and language?
+
+!SLIDE
+# And so it went on
 
 .notes used in testing, verified improvements, helped proof the prod env.

@@ -7,4 +7,5 @@
 .notes We started with a monitoring tool, we got so much more
 
 !SLIDE
-# Start influencing your development today #
+# Get to know your application
+# today

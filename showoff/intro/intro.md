@@ -15,6 +15,7 @@ _Curiosity, feedback, appreciation_
 !SLIDE bullets
 A talk about
 # Feedback
+## and
 ## ?
 
 .notes At the core (of agility), different kinds

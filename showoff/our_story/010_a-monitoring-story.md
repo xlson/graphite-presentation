@@ -2,12 +2,21 @@
 # A story of monitoring
 
 !SLIDE center
-# Watching you
+# Is your team performing?
 ![watching you](big_brother.jpg)
 
+.notes getting metrics out of your team?
+
 !SLIDE center
-# ...or your product
+# How about your product?
 ![noc](noc.jpg)
+
+.notes in fact, how well do you know your product?
+
+!SLIDE center
+# How will you know?
+
+.notes feedback from users, ops, testing?
 
 !SLIDE center
 ![entraction](entraction_logga.png)

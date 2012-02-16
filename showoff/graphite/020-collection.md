@@ -38,9 +38,3 @@
 
     (write-metric "meaning.of.life" 42 (now))
 
-!SLIDE center
-
-![demo time](juggling_fire.jpg)
-
-[ demo time ]
-

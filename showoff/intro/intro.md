@@ -6,6 +6,8 @@
 !SLIDE bullets
 # Ville Svärd
 
+* ville.svard@agical.com
+* @villesv
 * Consultant, programmer, architect, tester, ...
 * ![agical](agical_small_logo.png)
 * Stockholm, Sweden

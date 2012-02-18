@@ -19,6 +19,7 @@
 .notes feedback from users, ops, testing?
 
 !SLIDE center
+Once upon a time at
 ![entraction](entraction_logga.png)
 
 .notes consultants, working as developer and tester

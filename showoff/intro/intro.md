@@ -3,14 +3,14 @@
 # We saw #
 # We changed #
 
-!SLIDE
-# Speakers
-
 !SLIDE bullets
 # Ville Svärd
-## Consultant with Agical
 
-_Curiosity, feedback, appreciation_
+* Consultant, programmer, architect, tester, ...
+* ![agical](agical_small_logo.png)
+* Stockholm, Sweden
+* _Curiosity, feedback, appreciation_
+
 
 !SLIDE bullets
 A talk about

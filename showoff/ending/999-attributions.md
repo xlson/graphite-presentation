@@ -20,4 +20,5 @@ The team at Entraction (IGT)
 
 Mårten Gustafson
 
+Leonard Axelsson
 

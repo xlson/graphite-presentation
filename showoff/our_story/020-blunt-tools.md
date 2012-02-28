@@ -1,7 +1,6 @@
-!SLIDE bullets
+!SLIDE center
 # Blunt tools #
 
-!SLIDE center
 ![blunt tools](blunt_tools.jpg)
 
 .notes Subject kept popping up, much labor to settle it (to our satisfaction) every time

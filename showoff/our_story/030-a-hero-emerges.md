@@ -1,7 +1,7 @@
 !SLIDE 
 # A hero emerges #
 
-!SLIDE incremental bullets
+!SLIDE bullets
 # Graphite #
 * Set up
 * Collect

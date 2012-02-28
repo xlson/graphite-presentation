@@ -20,13 +20,12 @@ Nurturing conversation with data
 !SLIDE bullets
 # Stakeholders #
 
-* _Ooooh_ what is that?
-* Shared understanding of the "technical" domain
-* Shared _language_
-* Is it _quite_ ready yet?
-* This looks different than before...
+* Sparking curiosity
+* Shared understanding
 
-.notes what influences perf., associate names with data, watercooler once again
+.notes -Oh what is that? Quite ready yet? Shared decision making!
+what influences perf., associate names with data
+
 
 !SLIDE bullets
 # Managers #

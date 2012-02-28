@@ -4,21 +4,28 @@
 # We changed #
 
 !SLIDE bullets
-# Ville Svärd
-
-* ville.svard@agical.com
-* @villesv
-* Consultant, programmer, architect, tester, ...
-* ![agical](agical_small_logo.png)
-* Stockholm, Sweden
-* _Curiosity, feedback, appreciation_
-
+# Speakers
 
 !SLIDE bullets
-A talk about
-# Feedback
-## and
-## ?
+# Leonard Axelsson
+
+* Developer/Operations at Mojang
+* ![mojang](mojang.png)
+
+@xlson
+
+!SLIDE bullets
+# Ville Svärd
+
+* Consultant, programmer, architect, tester, ...
+* ![agical](agical_small_logo.png)
+
+@villesv
+
+!SLIDE
+## Behaviour
+## Language
+## Perception
 
 .notes At the core (of agility), different kinds
 

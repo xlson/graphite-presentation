@@ -1,7 +1,6 @@
 !SLIDE
-# We visualized #
-# We saw #
-# We changed #
+# Graphite
+## The village pump of your team
 
 !SLIDE bullets
 # Speakers

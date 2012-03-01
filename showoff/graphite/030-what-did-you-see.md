@@ -9,7 +9,6 @@
 
 !SLIDE
 # Sharing is caring... #
-...about your data
 
 .notes Availability over http => huge benefit
 

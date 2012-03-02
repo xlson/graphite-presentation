@@ -18,11 +18,11 @@
 .notes Historic data for comparison and regression
 
 !SLIDE center
-# Gathering data  at Entraction
+# Pulling metrics
 
 ![metrics_architecture](metrics-architecture-II.png)
 
 !SLIDE center
-# Gathering data at Mojang
+# Pushing metrics
 
 ![metrics architecture mojang](metrics-architecture-mojang.png)
